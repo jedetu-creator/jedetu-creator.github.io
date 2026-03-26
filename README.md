@@ -19,8 +19,8 @@
 ---
 
 ## 技能樹
-- **程式語言**：JAVA(職訓-新手)、C#、Python(自學中)  
-- **前端**：HTML、CSS、Javascript、Bootstrap(職訓-新手)、Vue.js(自學中)  
+- **程式語言**：JAVA(職訓-新手)、C#(職訓-新手)、Python(自學中)  
+- **前端**：HTML(職訓-新手)、CSS(職訓-新手)、Javascript(職訓-新手)、Bootstrap(職訓-新手)、Vue.js(自學中)  
 - **後端**：Node.js(自學中)  
 - **資料庫**：MSSQL(職訓-新手)、Access、SQLite(自學中)  
 - **工具**：Visual Studio(職訓-新手)、VSCode(職訓-新手)、Git(自學中)  
